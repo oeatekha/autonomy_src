@@ -1,9 +1,0 @@
-/home/omoruyiatekha/autonomy_ws/src/build/locobot_move/CMakeFiles/install/strip.dir
-/home/omoruyiatekha/autonomy_ws/src/build/locobot_move/CMakeFiles/install/local.dir
-/home/omoruyiatekha/autonomy_ws/src/build/locobot_move/CMakeFiles/install.dir
-/home/omoruyiatekha/autonomy_ws/src/build/locobot_move/CMakeFiles/list_install_components.dir
-/home/omoruyiatekha/autonomy_ws/src/build/locobot_move/CMakeFiles/rebuild_cache.dir
-/home/omoruyiatekha/autonomy_ws/src/build/locobot_move/CMakeFiles/edit_cache.dir
-/home/omoruyiatekha/autonomy_ws/src/build/locobot_move/CMakeFiles/test.dir
-/home/omoruyiatekha/autonomy_ws/src/build/locobot_move/CMakeFiles/locobot_move_uninstall.dir
-/home/omoruyiatekha/autonomy_ws/src/build/locobot_move/CMakeFiles/uninstall.dir
