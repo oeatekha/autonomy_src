@@ -1,0 +1,16 @@
+/home/omoruyiatekha/autonomy_ws/src/install/locobot_move/lib/locobot_move/send_velocity_node.py
+/home/omoruyiatekha/autonomy_ws/src/install/locobot_move/share/ament_index/resource_index/package_run_dependencies/locobot_move
+/home/omoruyiatekha/autonomy_ws/src/install/locobot_move/share/ament_index/resource_index/parent_prefix_path/locobot_move
+/home/omoruyiatekha/autonomy_ws/src/install/locobot_move/share/locobot_move/environment/ament_prefix_path.sh
+/home/omoruyiatekha/autonomy_ws/src/install/locobot_move/share/locobot_move/environment/ament_prefix_path.dsv
+/home/omoruyiatekha/autonomy_ws/src/install/locobot_move/share/locobot_move/environment/path.sh
+/home/omoruyiatekha/autonomy_ws/src/install/locobot_move/share/locobot_move/environment/path.dsv
+/home/omoruyiatekha/autonomy_ws/src/install/locobot_move/share/locobot_move/local_setup.bash
+/home/omoruyiatekha/autonomy_ws/src/install/locobot_move/share/locobot_move/local_setup.sh
+/home/omoruyiatekha/autonomy_ws/src/install/locobot_move/share/locobot_move/local_setup.zsh
+/home/omoruyiatekha/autonomy_ws/src/install/locobot_move/share/locobot_move/local_setup.dsv
+/home/omoruyiatekha/autonomy_ws/src/install/locobot_move/share/locobot_move/package.dsv
+/home/omoruyiatekha/autonomy_ws/src/install/locobot_move/share/ament_index/resource_index/packages/locobot_move
+/home/omoruyiatekha/autonomy_ws/src/install/locobot_move/share/locobot_move/cmake/locobot_moveConfig.cmake
+/home/omoruyiatekha/autonomy_ws/src/install/locobot_move/share/locobot_move/cmake/locobot_moveConfig-version.cmake
+/home/omoruyiatekha/autonomy_ws/src/install/locobot_move/share/locobot_move/package.xml

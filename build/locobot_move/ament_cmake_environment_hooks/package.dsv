@@ -1,0 +1,4 @@
+source;share/locobot_move/local_setup.bash
+source;share/locobot_move/local_setup.dsv
+source;share/locobot_move/local_setup.sh
+source;share/locobot_move/local_setup.zsh
