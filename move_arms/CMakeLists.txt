@@ -25,7 +25,7 @@ if(BUILD_TESTING)
 endif()
 # Install Python executables
 install(PROGRAMS
-  scripts/send_velocity_node.py
+  scripts/send_endeffector_node.py
   DESTINATION lib/${PROJECT_NAME}
 )
 
