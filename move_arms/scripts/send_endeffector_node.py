@@ -7,7 +7,7 @@ Example of using moveit for grasping example
 '''
 
 import sys
-import rospy
+import rclpy
 import numpy as np
 import scipy as sp
 from scipy import linalg
@@ -36,8 +36,8 @@ from std_msgs.msg import Float64
 class OrientCamera(object):
 	"""docstring for OrientCamera"""
 	def __init__(self, tilt_topic = "/locobot/tilt_controller/command", pan_topic = "/locobot/pan_controller/command"):		
-		self.orient_pub = rospy.create_publisher( Float64, tilt_topic, queue_size=1, latch=True)
-		self.pan_pub = rospy.create_publisher( Float64, pan_topic, queue_size=1, latch=True)
+		self.orient_pub = rclpy.create_publisher( Float64, tilt_topic, queue_size=1, latch=True)
+		self.pan_pub = rclpy.create_publisher( Float64, pan_topic, queue_size=1, latch=True)
 
 	def tilt_camera(self,angle=0.5):
 		msg = Float64()
@@ -146,7 +146,7 @@ class MoveLocobotArm(object):
 def main():
 
 
-	rospy.init_node('locobot_motion_example')
+	rclpy.init_node('locobot_motion_example')
 
 	moveit_commander.roscpp_initialize(sys.argv)
 	move_arm_obj = MoveLocobotArm(moveit_commander=moveit_commander)
@@ -163,7 +163,7 @@ def main():
 	camera_orient_obj = OrientCamera()
 	camera_orient_obj.tilt_camera()
 
-	rospy.spin()
+	rclpy.spin()
 
 
 if __name__ == '__main__':
