@@ -1,0 +1,25 @@
+Error parsing '/home/omoruyiatekha/autonomy_ws/src/move_arms/package.xml':
+Traceback (most recent call last):
+  File "/opt/ros/galactic/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 151, in <module>
+    main()
+  File "/opt/ros/galactic/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 54, in main
+    raise e
+  File "/opt/ros/galactic/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 50, in main
+    package = parse_package_string(
+  File "/usr/local/lib/python3.8/dist-packages/catkin_pkg/package.py", line 786, in parse_package_string
+    raise InvalidPackage('Error(s):%s' % (''.join(['\n- %s' % e for e in errors])), filename)
+catkin_pkg.package.InvalidPackage: Error(s) in package '/home/omoruyiatekha/autonomy_ws/src/move_arms/package.xml':
+Error(s):
+- The generic dependency on 'nav_msgs' is redundant with: build_depend, build_export_depend, exec_depend
+CMake Error at /opt/ros/galactic/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:94 (message):
+  execute_process(/usr/bin/python3
+  /opt/ros/galactic/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py
+  /home/omoruyiatekha/autonomy_ws/src/move_arms/package.xml
+  /home/omoruyiatekha/autonomy_ws/src/build/move_arms/ament_cmake_core/package.cmake)
+  returned error code 1
+Call Stack (most recent call first):
+  /opt/ros/galactic/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:49 (_ament_package_xml)
+  /opt/ros/galactic/share/ament_lint_auto/cmake/ament_lint_auto_find_test_dependencies.cmake:31 (ament_package_xml)
+  CMakeLists.txt:24 (ament_lint_auto_find_test_dependencies)
+
+

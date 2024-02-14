@@ -1,0 +1,17 @@
+-- Install configuration: ""
+-- Installing: /home/omoruyiatekha/autonomy_ws/src/install/locobot_move/lib/locobot_move/send_velocity_node.py
+-- Installing: /home/omoruyiatekha/autonomy_ws/src/install/locobot_move/share/ament_index/resource_index/package_run_dependencies/locobot_move
+-- Installing: /home/omoruyiatekha/autonomy_ws/src/install/locobot_move/share/ament_index/resource_index/parent_prefix_path/locobot_move
+-- Installing: /home/omoruyiatekha/autonomy_ws/src/install/locobot_move/share/locobot_move/environment/ament_prefix_path.sh
+-- Installing: /home/omoruyiatekha/autonomy_ws/src/install/locobot_move/share/locobot_move/environment/ament_prefix_path.dsv
+-- Installing: /home/omoruyiatekha/autonomy_ws/src/install/locobot_move/share/locobot_move/environment/path.sh
+-- Installing: /home/omoruyiatekha/autonomy_ws/src/install/locobot_move/share/locobot_move/environment/path.dsv
+-- Installing: /home/omoruyiatekha/autonomy_ws/src/install/locobot_move/share/locobot_move/local_setup.bash
+-- Installing: /home/omoruyiatekha/autonomy_ws/src/install/locobot_move/share/locobot_move/local_setup.sh
+-- Installing: /home/omoruyiatekha/autonomy_ws/src/install/locobot_move/share/locobot_move/local_setup.zsh
+-- Installing: /home/omoruyiatekha/autonomy_ws/src/install/locobot_move/share/locobot_move/local_setup.dsv
+-- Installing: /home/omoruyiatekha/autonomy_ws/src/install/locobot_move/share/locobot_move/package.dsv
+-- Installing: /home/omoruyiatekha/autonomy_ws/src/install/locobot_move/share/ament_index/resource_index/packages/locobot_move
+-- Installing: /home/omoruyiatekha/autonomy_ws/src/install/locobot_move/share/locobot_move/cmake/locobot_moveConfig.cmake
+-- Installing: /home/omoruyiatekha/autonomy_ws/src/install/locobot_move/share/locobot_move/cmake/locobot_moveConfig-version.cmake
+-- Installing: /home/omoruyiatekha/autonomy_ws/src/install/locobot_move/share/locobot_move/package.xml

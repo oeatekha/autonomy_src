@@ -1,0 +1,16 @@
+/home/omoruyiatekha/autonomy_ws/src/install/move_arms/lib/move_arms/send_endeffector_node.py
+/home/omoruyiatekha/autonomy_ws/src/install/move_arms/share/ament_index/resource_index/package_run_dependencies/move_arms
+/home/omoruyiatekha/autonomy_ws/src/install/move_arms/share/ament_index/resource_index/parent_prefix_path/move_arms
+/home/omoruyiatekha/autonomy_ws/src/install/move_arms/share/move_arms/environment/ament_prefix_path.sh
+/home/omoruyiatekha/autonomy_ws/src/install/move_arms/share/move_arms/environment/ament_prefix_path.dsv
+/home/omoruyiatekha/autonomy_ws/src/install/move_arms/share/move_arms/environment/path.sh
+/home/omoruyiatekha/autonomy_ws/src/install/move_arms/share/move_arms/environment/path.dsv
+/home/omoruyiatekha/autonomy_ws/src/install/move_arms/share/move_arms/local_setup.bash
+/home/omoruyiatekha/autonomy_ws/src/install/move_arms/share/move_arms/local_setup.sh
+/home/omoruyiatekha/autonomy_ws/src/install/move_arms/share/move_arms/local_setup.zsh
+/home/omoruyiatekha/autonomy_ws/src/install/move_arms/share/move_arms/local_setup.dsv
+/home/omoruyiatekha/autonomy_ws/src/install/move_arms/share/move_arms/package.dsv
+/home/omoruyiatekha/autonomy_ws/src/install/move_arms/share/ament_index/resource_index/packages/move_arms
+/home/omoruyiatekha/autonomy_ws/src/install/move_arms/share/move_arms/cmake/move_armsConfig.cmake
+/home/omoruyiatekha/autonomy_ws/src/install/move_arms/share/move_arms/cmake/move_armsConfig-version.cmake
+/home/omoruyiatekha/autonomy_ws/src/install/move_arms/share/move_arms/package.xml
