@@ -1,2 +1,0 @@
-Invoking command in '/home/omoruyiatekha/autonomy_ws/src/build/move_arms': /usr/bin/cmake /home/omoruyiatekha/autonomy_ws/src/move_arms -DCMAKE_INSTALL_PREFIX=/home/omoruyiatekha/autonomy_ws/src/install/move_arms
-Invoked command in '/home/omoruyiatekha/autonomy_ws/src/build/move_arms' returned '1': /usr/bin/cmake /home/omoruyiatekha/autonomy_ws/src/move_arms -DCMAKE_INSTALL_PREFIX=/home/omoruyiatekha/autonomy_ws/src/install/move_arms
