@@ -1,10 +1,4 @@
 #!/usr/bin/env python3
-'''
-Written by: Monroe Kennedy, Date: 1/2/2023
-Docs: http://docs.ros.org/en/melodic/api/moveit_tutorials/html/doc/move_group_python_interface/move_group_python_interface_tutorial.html
-
-Example of using moveit for grasping example
-'''
 
 import sys
 import rclpy
